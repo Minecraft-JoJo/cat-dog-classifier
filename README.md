@@ -111,7 +111,9 @@ requirements.txt	依赖清单
 🖼️ 预测示例
 python
 # 单张预测
+```bash
 python single.py
+```
 # 输出示例：
 # 预测的结果: dog，置信度: 0.9812
 📄 许可证
@@ -122,13 +124,9 @@ Kaggle Dogs vs Cats 提供数据集
 
 PyTorch 深度学习框架
 
-ModelScope 提供数据集托管（备选）
 
 ⭐ 给个 Star 吧！
 如果你觉得这个项目有用，欢迎点个 Star ⭐ 支持一下～
 也欢迎 fork 和提 issue。
 
-text
-
-复制上面整个代码块，粘贴到你的 `README.md` 文件里保存即可。刷新 GitHub 页面就能看到效果。🎯
 </final>
