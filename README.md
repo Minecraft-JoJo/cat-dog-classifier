@@ -52,6 +52,23 @@ data/
 
 ## 🚀 快速开始
 
+
+### 第一步：克隆项目并进入目录
+
+```bash
+git clone https://github.com/Minecraft-JoJo/cat-dog-classifier.git
+cd cat-dog-classifier
+```
+### 第二步：创建并进入环境
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+```
+
+### 第三步：安装依赖环境
+```bash
+pip install -r requirements.txt
+```
 ### 环境要求
 
 - Python 3.10+
