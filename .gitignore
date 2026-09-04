@@ -1,11 +1,11 @@
 # 数据集（非常大的图片文件夹）
-data/
+
 
 # 模型权重文件（二进制大文件）
 *.pth
 *.h5
 *.ckpt
-
+upload_data.py
 # Python 缓存（自动生成的临时文件）
 __pycache__/
 *.pyc
