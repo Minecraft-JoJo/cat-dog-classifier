@@ -66,21 +66,21 @@ data/
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 训练模型
-bash
+```bash
 python train.py
-
+```
 预测单张图片
-bash
+```bash
 python single.py
-
+```
 或使用 model_test.py 批量预测：
 
-bash
+```bash
 python model_test.py
-
+```
 🏗️ 模型架构
 本项目使用 GoogLeNet (Inception v1)，核心组件是 Inception 模块，它通过 1x1、3x3、5x5 卷积和池化并行提取多尺度特征，并在通道维度拼接。
 
