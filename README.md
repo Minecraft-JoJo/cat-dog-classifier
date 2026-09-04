@@ -37,16 +37,16 @@
 - 测试集：约 2000 张图片（每类 1000）
 
 **文件夹结构**：
-data/
-├── train/
-│ ├── cats/ # 猫图片
-│ └── dogs/ # 狗图片
-├── val/
-│ ├── cats/
-│ └── dogs/
-└── test/
-├── cats/
-└── dogs/
+#data/
+#├── train/
+#│ ├── cats/ # 猫图片
+#│ └── dogs/ # 狗图片
+#├── val/
+#│ ├── cats/
+#│ └── dogs/
+#└── test/
+#├── cats/
+#└── dogs/
 
 ---
 
