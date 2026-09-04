@@ -79,12 +79,6 @@ pip install -r requirements.txt
 - pandas
 - numpy
 
-### 安装依赖
-
-```bash
-pip install -r requirements.txt
-```
-
 训练模型
 ```bash
 python train.py
